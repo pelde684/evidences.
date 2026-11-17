@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "tools of trade 2",
+			"path": "../../tools of trade 2"
+		},
+		{
+			"name": "evidences",
+			"path": ".."
+		},
+		{
+			"name": "tools of trade",
+			"path": "../../tools of trade"
+		},
+		{
+			"name": "linux",
+			"path": "../../linux"
+		},
+		{
+			"name": "Computer networking concepts",
+			"path": "../../Computer networking concepts"
+		},
+		{
+			"name": "Communication, teamwork and presentation skills",
+			"path": "../../Communication, teamwork and presentation skills"
+		}
+	],
+	"settings": {}
+}
