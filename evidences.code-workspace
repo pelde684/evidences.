@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../uml"
+		},
+		{
+			"path": "../dsa"
+		},
+		{
+			"path": "../dbms"
+		},
+		{
+			"path": "../adr"
+		}
+	],
+	"settings": {}
+}
